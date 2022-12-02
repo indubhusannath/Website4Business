@@ -1,0 +1,27 @@
+.font{
+    font-family:Helvetica;
+
+}
+.font_size_2{
+    font-size:12px;
+}
+.font_size_3{
+    font-size:14px;
+}
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+li{
+    display:inline-block;
+    min-width:100px;
+    padding:5px;
+}
+section{
+    padding:1px;
+}
+.column{
+    float:left;
+    width:30%;
+}
